@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the ICTA2026 paper below (accepted; proceedings details pending)."
+title: "MARL-VI for multi-commodity trade-network equilibrium under crisis (SR-PLR-MARL)"
+authors:
+  - family-names: "Pham"
+    given-names: "Thanh Hieu"
+  - family-names: "Nguyen"
+    given-names: "Kieu Linh"
+repository-code: "https://github.com/hieuthanhpham12/marl-vi-trade-crisis"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Shock-responsive proximity-based step-size scheduling for projected stochastic variational inequality equilibrium computation in trade networks"
+  authors:
+    - family-names: "Pham"
+      given-names: "Thanh Hieu"
+    - family-names: "Nguyen"
+      given-names: "Kieu Linh"
+  collection-title: "Proceedings of the 5th International Conference on Advances in Information and Communication Technology (ICTA 2026)"
+  publisher:
+    name: "Springer"
+  year: 2026
+  status: "accepted"
+  notes: "Camera-ready, pages and DOI to be added after publication."
